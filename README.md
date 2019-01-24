@@ -1,6 +1,7 @@
 # Supported tags
 
--	`10`, `latest`
+-   `11`, `11.1`, `latest`
+-	`10`, `10.6`
 -   `9`, `9.6`
 
 # Quick reference
